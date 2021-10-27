@@ -1,4 +1,4 @@
-package fr;
+package fr.macademia.app;
 
 import static org.junit.Assert.assertTrue;
 
